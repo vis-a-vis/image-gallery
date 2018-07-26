@@ -97,13 +97,3 @@ module.exports.saveList = saveList;
 module.exports.documentList = documentList;
 module.exports.find = find;
 
-/*
-{
-“_id”: “1”,
-“_houseid”: “4566”,
-“Link_url”: “http://www.aws.images/6787886/”,
-“Description”: “Manhattan Lux Loft.Like.Love.Lots.Look !”,
-“Image_count”: “1”
-}
-*/
-
